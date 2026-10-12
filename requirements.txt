@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+requests
+yfinance
+altair
